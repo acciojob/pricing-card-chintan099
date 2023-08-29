@@ -1,1 +1,28 @@
 /*  your css code here. If applicable */
+.main{
+	width:200px;
+/* 	border:2px solid red; */
+	background-color:#F1F1F1;
+	box-shadow:1px 1px 10px 1px #C1C1C1 ;
+}
+img{
+	width:100%;
+	
+}
+h1 ,p{
+/* 	border:2px solid red; */
+/* 	padding:5px; */
+	display:flex;
+	justify-content: center;
+	text-align:center
+}
+button{
+	border-radius: 5px;
+	background-color:#FE625A;
+	border:#FE625A;
+	margin-bottom:15px;
+}
+button>a{
+	text-decoration:none;
+	color:white;
+}
